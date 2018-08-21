@@ -1,4 +1,4 @@
-package com.example.pyrov.moxysimpleproject_1;
+package com.example.pyrov.moxysimpleproject_1.app;
 
 import com.example.pyrov.moxysimpleproject_1.model.MyData;
 import com.example.pyrov.moxysimpleproject_1.model.MyDataModule;

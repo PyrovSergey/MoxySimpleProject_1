@@ -2,8 +2,8 @@ package com.example.pyrov.moxysimpleproject_1.presenter;
 
 import com.arellomobile.mvp.InjectViewState;
 import com.arellomobile.mvp.MvpPresenter;
-import com.example.pyrov.moxysimpleproject_1.App;
-import com.example.pyrov.moxysimpleproject_1.MySimpleView;
+import com.example.pyrov.moxysimpleproject_1.app.App;
+import com.example.pyrov.moxysimpleproject_1.view.MySimpleView;
 import com.example.pyrov.moxysimpleproject_1.model.Contract;
 
 @InjectViewState

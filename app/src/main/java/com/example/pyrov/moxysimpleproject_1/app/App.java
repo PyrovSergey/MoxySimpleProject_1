@@ -1,7 +1,8 @@
-package com.example.pyrov.moxysimpleproject_1;
+package com.example.pyrov.moxysimpleproject_1.app;
 
 import android.app.Application;
 import android.content.Context;
+
 
 public class App extends Application {
     private static App instance;

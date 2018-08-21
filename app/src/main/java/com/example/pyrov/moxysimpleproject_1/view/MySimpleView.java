@@ -1,4 +1,4 @@
-package com.example.pyrov.moxysimpleproject_1;
+package com.example.pyrov.moxysimpleproject_1.view;
 
 import com.arellomobile.mvp.MvpView;
 import com.arellomobile.mvp.viewstate.strategy.AddToEndSingleStrategy;

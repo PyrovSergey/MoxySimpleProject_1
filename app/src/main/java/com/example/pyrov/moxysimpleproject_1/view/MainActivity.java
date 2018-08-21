@@ -1,19 +1,19 @@
-package com.example.pyrov.moxysimpleproject_1;
+package com.example.pyrov.moxysimpleproject_1.view;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
 
 import com.arellomobile.mvp.MvpAppCompatActivity;
 import com.arellomobile.mvp.presenter.InjectPresenter;
+import com.example.pyrov.moxysimpleproject_1.R;
 import com.example.pyrov.moxysimpleproject_1.presenter.MySimplePresenter;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-public class MainActivity extends MvpAppCompatActivity implements MySimpleView  {
+public class MainActivity extends MvpAppCompatActivity implements MySimpleView {
     @BindView(R.id.edit_text_input)
     EditText editTextInput;
     @BindView(R.id.edit_text_output)
